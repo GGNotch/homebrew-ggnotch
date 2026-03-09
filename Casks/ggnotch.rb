@@ -1,6 +1,6 @@
 cask "ggnotch" do
-  version "1.1.0"
-  sha256 "dbebbdf5c4785d6246da9d720607cb9618d1e11e689e2b686f6d45190ec56d31"
+  version "1.1.1"
+  sha256 "6b30b63442097bc8adabddb844ef45137c61664f5d64605486e7440db3381512"
 
   url "https://github.com/GGNotch/GGNotch/releases/download/v#{version}/GGNotch.dmg"
   name "GGNotch"
